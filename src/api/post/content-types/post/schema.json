@@ -15,9 +15,6 @@
     "title": {
       "type": "string"
     },
-    "date": {
-      "type": "datetime"
-    },
     "image": {
       "type": "media",
       "multiple": false,
